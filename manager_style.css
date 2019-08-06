@@ -1,0 +1,84 @@
+#Btn{
+	margin-left: 75%;
+padding: 10px;
+width: 120%;
+background: #003333;
+color: white;
+font-size: 17px;
+font-family: bold;
+}
+.a1{
+margin-top: 25%;
+height:35%;
+border-style: double;
+border-color: lightslategrey;
+border-radius: 5px;
+background-color: #f2f2f2;
+box-shadow: 0 0 4px;
+width: 55%;
+}
+.c2{
+margin-top: 6%;
+height: 25%;
+border-style: double;
+border-color: lightslategrey;
+border-radius: 5px;
+background-color: #f2f2f2;
+box-shadow: 0 0 4px;
+width: 55%;
+}
+.d {
+
+    height: 445px;
+    border-style: double;
+    border-color: lightslategrey;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    box-shadow: 0 0 4px;
+    width: 135%;
+    position: absolute;
+    right: 4%;
+    margin-top: 22%;
+    overflow: scroll;
+
+}
+.a1 h3{
+	background: #003333;
+	color: white;
+	padding: 15px;
+	margin:10px;
+}
+.a1 ul{list-style: none;margin-top: 13px;}
+.a1 li{padding: 5px;}
+.a1 a{color: black;font-size: 19px;font-family: bold;}
+.c2 ul{list-style: none;margin-top: 13px;}
+.c2 li{padding: 5px;}
+.c2 a{color: black;font-size: 19px;font-family: bold;}
+.c2 h3{
+	background: #003333;
+	color: white;
+	padding: 15px;
+	margin:10px;
+}
+
+#update {
+    border-collapse: collapse;
+    width: 95%;
+    box-shadow: 0px 0 4px rgb(0,0,0.2);
+	margin-left: 3%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+#update td {
+    text-align: center;
+	padding:5px;
+	background:white;
+}
+
+#update th {
+    background-color: #003333;
+    color: white;
+	padding: 15px;
+	text-align: center;
+}
